@@ -1,3 +1,0 @@
-使用sklearn导入mnist数据集问题
-1.使用vpn不会报错
-2.不使用vpn，则需要将mnist-original.mat数据集拷贝到scikit_learn_data\mldata中
